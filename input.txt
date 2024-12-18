@@ -1,0 +1,7 @@
+location:114.052584,22.543196
+key:ff2f0dc3350fc3e1490b0bc9811321f1
+说明
+	location通过https://lbs.amap.com/tools/picker拾取(gcj02坐标系) 
+	爬取范围为半径5km的圆
+	key通过高德api申请
+	输出文件格式为车速 | 经度 | 纬度(wgs84坐标系) 
